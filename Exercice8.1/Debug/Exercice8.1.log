@@ -1,0 +1,20 @@
+﻿  main.cpp
+  map.cpp
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(9,43): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(33,21): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(35,22): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(133,43): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(141,21): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(185,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(205,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(225,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(240,21): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(253,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(268,22): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(280,20): warning C4018:  '<' : incompatibilité signed/unsigned
+  player.cpp
+  trap.cpp
+  Génération de code en cours...
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\map.cpp(295,22): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Exercice8.1\player.cpp(121): warning C4715:  'Player::PickupPotion' : les chemins de contrôle ne retournent pas tous une valeur
+  Exercice8.1.vcxproj -> C:\Users\lorna\SAE Institute\Prog EX-8\Exercice8.1\Debug\Exercice8.1.exe
